@@ -1,0 +1,66 @@
+html{font-size: 20px;}
+
+.fundo-alinhamento{
+    background-color:#00ffff ;
+}
+
+.fundo-transform{
+    background-color: blueviolet;
+}
+
+.decoration{
+    background-color: blue;
+}
+
+.fundo{
+    background-color: blanchedalmond;
+}
+
+.alinhado-esquerda{
+    text-align: left;
+    
+}
+
+.alinhado-direita{
+    text-align: right;
+  
+}
+
+.alinhado-centro{
+    text-align: center;
+   
+}
+
+.justificado{
+    text-align: justify;
+}
+
+.maiuscula{
+    text-transform: uppercase;
+}
+
+.minuscula{
+    text-transform: lowercase;
+}
+
+.capitalizado{
+    text-transform: capitalize;
+}
+
+.sublinhado{
+    text-decoration: underline;
+}
+.marcado{
+    text-decoration: line-through;
+}
+.link{
+    text-decoration: none;
+}
+
+.altura-entre-linhas{
+    line-height: 50px;
+}
+
+.sombra-de-texto{
+text-shadow: 10px 15px 2px red;
+}
